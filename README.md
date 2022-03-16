@@ -121,7 +121,7 @@ $ get [nama file]
 
 Cari filter dari soal.pcap
 1. Display Filter sehingga wireshark hanya mengambil paket yang berasal dari 192.168.1.158
-2. Display Filter sehingga wireshark hanya mengambil paket yang berasal dari 192.168.1.255
+2. Display Filter sehingga wireshark hanya mengambil paket yang menuju ke 192.168.1.255
 
 * Case 2
 
